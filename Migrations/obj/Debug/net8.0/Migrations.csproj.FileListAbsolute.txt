@@ -138,3 +138,4 @@ C:\git\Migrations\Migrations\obj\Debug\net8.0\refint\Migrations.dll
 C:\git\Migrations\Migrations\obj\Debug\net8.0\Migrations.pdb
 C:\git\Migrations\Migrations\obj\Debug\net8.0\Migrations.genruntimeconfig.cache
 C:\git\Migrations\Migrations\obj\Debug\net8.0\ref\Migrations.dll
+C:\git\Migrations\Migrations\obj\Debug\net8.0\Migrations.sourcelink.json

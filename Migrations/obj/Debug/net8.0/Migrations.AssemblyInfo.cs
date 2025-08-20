@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Migrations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee8f2d4785bdec18eed9e3aabdb3352c668f4e5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Migrations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Migrations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
